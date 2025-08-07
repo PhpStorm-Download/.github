@@ -1,6 +1,6 @@
 <!-- Top Banner -->
 <p align="center"> 
-  <img src="YOUR_BANNER_IMAGE_URL" alt="PhpStorm Banner" width="100%" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/2048px-PhpStorm_Icon.svg.png" alt="PhpStorm Banner" width="100%" />
 </p>
 
 <h1 align="center">🛠️ PhpStorm Config Unlock Tool</h1>
@@ -14,7 +14,7 @@
 
 <!-- Tool Preview (top) -->
 <p align="center">
-  <img src="YOUR_TOOL_SCREENSHOT_URL" alt="PhpStorm Tool Preview" width="800" />
+  <img src="https://www.jetbrains.com/phpstorm/img/screenshots/phpstorm_debugging@2x.png" alt="PhpStorm Tool Preview" width="800" />
 </p>
 
 ---
